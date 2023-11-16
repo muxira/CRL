@@ -1,0 +1,1 @@
+start RustClient.exe -logs -silent-crashes -logfile output_log.txt +prewarm "false" +global.skipassetwarmup_crashes "1"
