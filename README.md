@@ -1,2 +1,0 @@
-# CRL
-Carbon Rust Launcher
